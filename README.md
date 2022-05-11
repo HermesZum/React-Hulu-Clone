@@ -2,5 +2,5 @@
 
 A Hulu clone responsive app with React.Js, Next.Js and TailwindCSS
 
-![Alt text](/IMG/screen.gif?raw=true)
+![Alt text](/IMG/screen.png?raw=true)
 
