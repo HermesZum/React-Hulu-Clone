@@ -30,4 +30,6 @@ const Thumbnail = forwardRef(({result}, flip) => {
     )
 })
 
+Thumbnail.displayName = 'Thumbnail';
+
 export default Thumbnail;
